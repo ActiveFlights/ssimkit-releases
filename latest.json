@@ -1,23 +1,23 @@
 {
-  "version": "0.4.0",
+  "version": "0.4.1",
   "notes": "",
-  "pub_date": "2026-10-27T01:39:54.752Z",
+  "pub_date": "2026-10-29T01:46:37.788Z",
   "platforms": {
-    "windows-x86_64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSNEYzVFdUQzF1Q2dVNmNzUndyak42QTB3T1JhYWIvZ0N1S2R3WTBjcnl0UWpTaXR6YllOajR3SUIvS24xM2swNTVmVVl5bUViYUJBbmwxeFQwNHBQQ1o5VHZObTRORlFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDY1MzYwCWZpbGU6U1NJTS5Ub29sa2l0XzAuNC4wX3g2NC1zZXR1cC5leGUKdTVBL2NKN05oU1lvMjlCTnViYkxVejlRdHA5WkovcUoweWtxY0FVcWVXMzRjMVliN05KamJnMUlZeWpERmxoczliTmErd3I5T0tFOGNRZnRRVXQ0QVE9PQo=",
-      "url": "https://github.com/ActiveFlights/ssimkit-releases/releases/download/v0.4.0-beta.1/SSIM.Toolkit_0.4.0_x64-setup.exe"
-    },
-    "windows-x86_64-nsis": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSNEYzVFdUQzF1Q2dVNmNzUndyak42QTB3T1JhYWIvZ0N1S2R3WTBjcnl0UWpTaXR6YllOajR3SUIvS24xM2swNTVmVVl5bUViYUJBbmwxeFQwNHBQQ1o5VHZObTRORlFrPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDY1MzYwCWZpbGU6U1NJTS5Ub29sa2l0XzAuNC4wX3g2NC1zZXR1cC5leGUKdTVBL2NKN05oU1lvMjlCTnViYkxVejlRdHA5WkovcUoweWtxY0FVcWVXMzRjMVliN05KamJnMUlZeWpERmxoczliTmErd3I5T0tFOGNRZnRRVXQ0QVE9PQo=",
-      "url": "https://github.com/ActiveFlights/ssimkit-releases/releases/download/v0.4.0-beta.1/SSIM.Toolkit_0.4.0_x64-setup.exe"
-    },
     "darwin-aarch64": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSNEYzVFdUQzF1Q3NVN2pmbTgwUTJCR0J3M1pjZ01yV3AyUzdaUnFOOHFjZ3Y3UzdHeVFRZ1Y3ZjFKMGdoRzVYMXFnWWFnVGNPZHJObUJhK2NVbWtCKzEwcnpNWXdmd1EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDY1MTg0CWZpbGU6U1NJTSBUb29sa2l0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjQuMApiTTF4ekdzaDRPR1V6Y0dUZFZoa05yUFRCaTBSZFBlRlg2NU9tRThkOEdyRDQyanA5R0pLUXUyTSttenNLYkphOUVmMnY5YnBYUTdhWFZuRSs5ZjBCdz09Cg==",
-      "url": "https://github.com/ActiveFlights/ssimkit-releases/releases/download/v0.4.0-beta.1/SSIM.Toolkit_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSNEYzVFdUQzF1Q21XM2o2eHNuZUVSNElBY2dQRkZWZFBnRTJBSTFtY2UvWnRBeVp0Yy9QcXl5ZHY3V2ZzNDBqMXV0eW1MYTF4ajJYVzdldG9CUXplOTRPSzV4NEx2YVFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjM1OTgwCWZpbGU6U1NJTSBUb29sa2l0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjQuMQoxdk5qVGhadEZuTGF2WVlseUpFV01vOUxCYTNSRklWZVE0dW5OS0kxVnlJL01pNUNPZUxjWm5UYThrUXBqSDBtTjg2Qk1QaWlDZEUxRmsyYk9MaW5DZz09Cg==",
+      "url": "https://github.com/ActiveFlights/ssimkit-releases/releases/download/v0.4.1-beta.1/SSIM.Toolkit_aarch64.app.tar.gz"
     },
     "darwin-aarch64-app": {
-      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSNEYzVFdUQzF1Q3NVN2pmbTgwUTJCR0J3M1pjZ01yV3AyUzdaUnFOOHFjZ3Y3UzdHeVFRZ1Y3ZjFKMGdoRzVYMXFnWWFnVGNPZHJObUJhK2NVbWtCKzEwcnpNWXdmd1EwPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMDY1MTg0CWZpbGU6U1NJTSBUb29sa2l0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjQuMApiTTF4ekdzaDRPR1V6Y0dUZFZoa05yUFRCaTBSZFBlRlg2NU9tRThkOEdyRDQyanA5R0pLUXUyTSttenNLYkphOUVmMnY5YnBYUTdhWFZuRSs5ZjBCdz09Cg==",
-      "url": "https://github.com/ActiveFlights/ssimkit-releases/releases/download/v0.4.0-beta.1/SSIM.Toolkit_aarch64.app.tar.gz"
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSNEYzVFdUQzF1Q21XM2o2eHNuZUVSNElBY2dQRkZWZFBnRTJBSTFtY2UvWnRBeVp0Yy9QcXl5ZHY3V2ZzNDBqMXV0eW1MYTF4ajJYVzdldG9CUXplOTRPSzV4NEx2YVFBPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjM1OTgwCWZpbGU6U1NJTSBUb29sa2l0LmFwcC50YXIuZ3oJdmVyc2lvbjowLjQuMQoxdk5qVGhadEZuTGF2WVlseUpFV01vOUxCYTNSRklWZVE0dW5OS0kxVnlJL01pNUNPZUxjWm5UYThrUXBqSDBtTjg2Qk1QaWlDZEUxRmsyYk9MaW5DZz09Cg==",
+      "url": "https://github.com/ActiveFlights/ssimkit-releases/releases/download/v0.4.1-beta.1/SSIM.Toolkit_aarch64.app.tar.gz"
+    },
+    "windows-x86_64": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSNEYzVFdUQzF1Q2dyMFFiR0swNForcVRjU0l1K2ZueDZvcmdHeXQ2OGV4Z1BsaWppREpxSW92MUxvdFBMVDZncERCcE9CTEdHSlhZZ1JWeXloL3paajRLV1ROUi95WGdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjQzODMzCWZpbGU6U1NJTS5Ub29sa2l0XzAuNC4xX3g2NC1zZXR1cC5leGUKVkFnbzNjajlld2RsaE1RREhmdVdUUHZYcm1BWjk3cDRGZlN0bkhCdjZscXRTZ1lFVzcyUDVlVm5HMFcvamFUK1dRVE44SGgvem5lVGRIQVZwYjFOQWc9PQo=",
+      "url": "https://github.com/ActiveFlights/ssimkit-releases/releases/download/v0.4.1-beta.1/SSIM.Toolkit_0.4.1_x64-setup.exe"
+    },
+    "windows-x86_64-nsis": {
+      "signature": "dW50cnVzdGVkIGNvbW1lbnQ6IHNpZ25hdHVyZSBmcm9tIHRhdXJpIHNlY3JldCBrZXkKUlVSNEYzVFdUQzF1Q2dyMFFiR0swNForcVRjU0l1K2ZueDZvcmdHeXQ2OGV4Z1BsaWppREpxSW92MUxvdFBMVDZncERCcE9CTEdHSlhZZ1JWeXloL3paajRLV1ROUi95WGdRPQp0cnVzdGVkIGNvbW1lbnQ6IHRpbWVzdGFtcDoxNzkzMjQzODMzCWZpbGU6U1NJTS5Ub29sa2l0XzAuNC4xX3g2NC1zZXR1cC5leGUKVkFnbzNjajlld2RsaE1RREhmdVdUUHZYcm1BWjk3cDRGZlN0bkhCdjZscXRTZ1lFVzcyUDVlVm5HMFcvamFUK1dRVE44SGgvem5lVGRIQVZwYjFOQWc9PQo=",
+      "url": "https://github.com/ActiveFlights/ssimkit-releases/releases/download/v0.4.1-beta.1/SSIM.Toolkit_0.4.1_x64-setup.exe"
     }
   }
 }
